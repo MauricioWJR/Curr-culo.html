@@ -1,1 +1,1 @@
-# Curr-culo.html
+Este repositório contém meu currículo desenvolvido com HTML e CSS puro. O objetivo é apresentar minhas habilidades, experiências e formação de forma simples, elegante e responsiva — tudo sem o uso de frameworks ou bibliotecas externas.
